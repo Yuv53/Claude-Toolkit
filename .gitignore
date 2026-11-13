@@ -1,0 +1,9 @@
+projects/*/renders/
+*.mp4
+*.mov
+*.wav
+*.mp3
+.env
+.env.*
+node_modules/
+__pycache__/
